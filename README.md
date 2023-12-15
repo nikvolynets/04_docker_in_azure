@@ -12,7 +12,6 @@ Deploy a Docker container in Azure, integrate with PostgreSQL using Docker Compo
 - **Azure Container Registry:** Azure service for storing and managing container images.
 
 ## Prerequisites
-Participants should:
 1. [Create Azure trial account](https://azure.microsoft.com/en-ca/free/search/?ef_id=_k_Cj0KCQiAj_CrBhD-ARIsAIiMxT_Ya2hhLmqz8eN_H298Of5m5zNqPnwI3d2CjsOJrj3NtY5GdvyJO6MaAo1REALw_wcB_k_&OCID=AIDcmmqz3gd78m_SEM__k_Cj0KCQiAj_CrBhD-ARIsAIiMxT_Ya2hhLmqz8eN_H298Of5m5zNqPnwI3d2CjsOJrj3NtY5GdvyJO6MaAo1REALw_wcB_k_&gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT_Ya2hhLmqz8eN_H298Of5m5zNqPnwI3d2CjsOJrj3NtY5GdvyJO6MaAo1REALw_wcB)
 2. [Intall Docker](https://docs.docker.com/get-docker/)
 
