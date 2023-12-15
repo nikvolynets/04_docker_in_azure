@@ -1,7 +1,7 @@
 # Docker in Azure
 
 ## Objective
-**Goal:** Deploy a Docker container in Azure, integrate with PostgreSQL using Docker Compose, and automate deployment using GitHub CI/CD.
+Deploy a Docker container in Azure, integrate with PostgreSQL using Docker Compose, and automate deployment using GitHub CI/CD.
 
 ## Key Terms
 - **Docker Container:** Lightweight, standalone package containing everything needed to run software.
@@ -13,11 +13,8 @@
 
 ## Prerequisites
 Participants should:
-1. Understand basic Docker and containerization concepts.
-2. Be familiar with PostgreSQL and database management.
-3. Know GitHub basics, particularly repositories and version control.
-4. Read about Azure services, focusing on Azure Container Registry and App Services.
-5. Install Docker and Git on their machines.
+1. [Create Azure trial account](https://azure.microsoft.com/en-ca/free/search/?ef_id=_k_Cj0KCQiAj_CrBhD-ARIsAIiMxT_Ya2hhLmqz8eN_H298Of5m5zNqPnwI3d2CjsOJrj3NtY5GdvyJO6MaAo1REALw_wcB_k_&OCID=AIDcmmqz3gd78m_SEM__k_Cj0KCQiAj_CrBhD-ARIsAIiMxT_Ya2hhLmqz8eN_H298Of5m5zNqPnwI3d2CjsOJrj3NtY5GdvyJO6MaAo1REALw_wcB_k_&gad_source=1&gclid=Cj0KCQiAj_CrBhD-ARIsAIiMxT_Ya2hhLmqz8eN_H298Of5m5zNqPnwI3d2CjsOJrj3NtY5GdvyJO6MaAo1REALw_wcB)
+2. [Intall Docker](https://docs.docker.com/get-docker/)
 
 ## Implementation
 1. **Review Existing Container:** Examine the Docker container from the previous session.
